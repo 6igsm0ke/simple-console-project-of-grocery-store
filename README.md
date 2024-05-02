@@ -2,6 +2,7 @@
 The Grocery Store project is a console application for managing purchases in a grocery store. Users can choose product categories, add and remove items from the cart, and proceed with payment.
 
 Repository: [https://github.com/6igsm0ke/simple-console-project-of-grocery-store](https://github.com/6igsm0ke/simple-console-project-of-grocery-store)
+
 cd simple-console-project-of-grocery-store
 
 Run the application
@@ -33,6 +34,7 @@ User-Friendly Interface: Our project offers a simple and intuitive interface for
 Flexibility in Shopping: Features like cart management and total cost calculation provide customers with more control over their shopping experience.
 Secure Payment Processing: Our payment processing ensures secure transactions for customer peace of mind.
 Efficient Error Handling: Reliable error handling ensures a smooth shopping experience.
+
 Authors
 Kosbayev Adilet and Talgatov Yerassyl
 
